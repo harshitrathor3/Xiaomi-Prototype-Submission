@@ -12,7 +12,7 @@ Framework - Java GUI Programming
 - Any IDE would run this project.
 - I have runned it in VS Code and Apache NetBeans.
 
-## Where to start running program?
+## Where to start running the program?
 
 Run the Login_Page.java file and all other code will be in flow with this file
 
